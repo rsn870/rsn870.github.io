@@ -26,9 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Sai Niranjan"
   pronouns         : # example: "she/her"  
-  bio              : "A first-principles researcher and PhD candidate at TU Munich, specializing in understanding the emergence of structure in complex systems. My work focuses on finding non-obvious connections between different theoretical domains (e.g., statistical physics and machine learning) to build novel insights. I am driven to translate these foundational insights into practical, high-impact applications and robust, engineerable systems."
+  bio              : "I am a first-principles researcher focused on the structure of complex systems. By bridging disparate theoretical fields, I work to uncover foundational insights and translate them into robust, high-impact applications."
   location         : "Munich, Germany"
   employer         : "Technical University of Munich"
+  employer         : "Stone Buck Labs"
   uri              : # URL
   email            : "sainiranjan.ramachandran@tum.de" 
 
