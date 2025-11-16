@@ -12,4 +12,4 @@ Welcome. I am a first-principles researcher and PhD candidate at the Technical U
 
 My research journey is driven by a passion for bridging the gap between academic theory and real-world impact. This has led me to roles in strategic consulting and venture capital, where I engaged with key operational and managerial challenges. Currently, I am also a part of Stone Buck Labs, where we leverage insights into the structure of complex data to engineer robust, high-performance tools for large-scale data challenges.
 
-This website serves as a portfolio of my work. Please feel free to explore my [publications](/publications/), [invited talks](/talks/), and past projects. I am always open to discussing new ideas. 
+This website serves as a portfolio of my work. Please feel free to explore my [publications](https://scholar.google.com/citations?user=V60DwW4AAAAJ), [invited talks](/talks/), and past projects. I am always open to discussing new ideas. 
