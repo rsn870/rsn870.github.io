@@ -23,7 +23,7 @@ repository               : "rsn870/rsn870.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "Profile_picture.png"
   name             : "Sai Niranjan"
   pronouns         : # example: "she/her"  
   bio              : "I am a first-principles researcher focused on the structure of complex systems. By bridging disparate theoretical fields, I work to uncover foundational insights and translate them into robust, high-impact applications."
